@@ -1,0 +1,11 @@
+{
+  "optimal_threshold": 0.49493670886075947,
+  "default_threshold": 0.5,
+  "auc_roc": 0.9045949757272467,
+  "auc_roc_calibrated": 0.9045949757272467,
+  "brier_score": 0.12087226373819418,
+  "f1_at_optimal": 0.7929634641407307,
+  "model_version": "v1.0",
+  "training_rows": 7363,
+  "n_features": 75
+}
